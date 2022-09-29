@@ -2,7 +2,7 @@
 Multichain Defi Trading Bot with Embeded Sandwich Trade, Frontrun Bot and Token Snipe functions.
 
 <p align="center">
-  <img src="https://github.com/ps-lightning/sandwich-trading-bot/blob/main/swbot.jpg?raw=true" width="auto" height="450"/>
+  <img src="./swbot.jpg?raw=true" width="auto" height="450"/>
 </p>
 
 - Lite version of my 1200$ trading suite.
